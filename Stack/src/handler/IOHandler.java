@@ -19,4 +19,10 @@ public class IOHandler {
 	public void printString(String str) {
 		System.out.println(str);
 	}
+	
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return s.toString();
+	}
 }
