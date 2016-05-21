@@ -18,6 +18,8 @@ public class IOHandler {
 	
 	public void printString(String str) {
 		System.out.println(str);
+		
+		System.out.println("commit hojung");
 	}
 	
 	@Override
